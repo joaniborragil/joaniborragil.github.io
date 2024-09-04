@@ -11,4 +11,4 @@ My goals for this course:
 2. Code something
 
 
-The best thing I ate this summer was a cookies and cream , icream
+The best thing I ate this summer was a pasta. 
