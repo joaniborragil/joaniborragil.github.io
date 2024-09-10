@@ -7,8 +7,9 @@
 My goals for this course:
 
 
--Learn coding basics
--Code something
+-   Learn coding basics
+
+-   Code something
 
 
 The best thing I ate this summer was a **paella** I ate in Spain
