@@ -1,14 +1,14 @@
 # My Github Pages website
 
-My name is Joan 
+1.My name is **Joan** 
 
-I have no coding experience
+2. I have **no** coding experience
 
 My goals for this course:
 
 
-1. Learn coding basics
-2. Code something
+-Learn coding basics
+-Code something
 
 
-The best thing I ate this summer was a pasta. 
+The best thing I ate this summer was a **paella** I ate in Spain
